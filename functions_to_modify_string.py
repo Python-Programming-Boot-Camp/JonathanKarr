@@ -1,0 +1,6 @@
+age = int(input("What is your age: "))
+first_name = input("What is your first name: ")
+last_name = input("What is your last name: ")
+print("Hello " + first_name.capitalize() + " " + last_name.capitalize() + " you are " + str(age))
+age = int(input("What is your age: "))
+print("Hello " + first_name.capitalize() + " " + last_name.capitalize() + " you are " + str(age))
